@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,sCACF,CAEA,OACE,oBACF,CAEA,YACE,cACF","file":"main.8b733f79.chunk.css","sourcesContent":["body {\n  font-family: Arial, Helvetica, sans-serif;\n}\n\n.goods {\n  list-style-type: none;\n}\n\n.goods_list {\n  font-size: 20px;\n}\n"]}
